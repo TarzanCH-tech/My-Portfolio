@@ -12,7 +12,7 @@ Frontend Development: HTML, CSS, JavaScript, React.JS, React Native
 
 Backend Development: Node.js, Express, Python
 
-Databases: MySQL, MongoDB
+Databases: MySQL, SQLite, MongoDB
 
 Version Control & Tools: Git, GitHub, VS Code
 
@@ -38,6 +38,6 @@ Looking to collaborate or hire a developer? Let's connect!
 
 💼 LinkedIn: www.linkedin.com/in/mabdullah009
 
-🌍 Portfolio Website: yourwebsite.com
+🌍 Portfolio Website: https://my-portfolio-rho-silk-94.vercel.app/
 
 ✨ This repository serves as a central hub for my skills, projects and professional journey in software & web development.
