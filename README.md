@@ -32,7 +32,7 @@ Version Control & Tools: Git, GitHub, VS Code
 
 📬 Contact Me
 
-Looking to collaborate or hire a developer? Let’s connect!
+Looking to collaborate or hire a developer? Let's connect!
 
 📧 Email: tarzanch4@gmail.com
 
